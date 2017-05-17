@@ -8,8 +8,8 @@ git clone https://github.com/minimaxir/big-list-of-naughty-strings.git
 git clone https://github.com/foospidy/payloads.git
 git clone https://github.com/danielmiessler/RobotsDisallowed.git
 git clone https://github.com/danielmiessler/SecLists.git
-wget http://download.g0tmi1k.com/wordlists/large/crackstation-human-only.txt.gz 
-gzip -d crackstation-human-only.txt.gz 
+#wget http://download.g0tmi1k.com/wordlists/large/crackstation-human-only.txt.gz 
+#gzip -d crackstation-human-only.txt.gz 
 git clone https://github.com/danielmiessler/SecLists.git seclists 
 git clone https://github.com/minimaxir/big-list-of-naughty-strings.git naughty
 cp -R /usr/share/wordlists/ /opt/wlists 
